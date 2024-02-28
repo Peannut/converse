@@ -97,7 +97,7 @@ import {
 	  customerName: "Morgan Cypress",
 	  rating: 4.5,
 	  feedback:
-		"The attention to detail and the quality of the product exceeded my expectations. Highly recommended!",
+		"Impeccable attention to detail resulted in a product exceeding all expectations. Highly recommended",
 	},
 	{
 	  imgURL: customer2,
