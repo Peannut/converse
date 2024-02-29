@@ -1,4 +1,4 @@
-# Landing page for the Converse store built using React, Vite, Typescript and Tailwind
+# Landing page for the Converse store built using React, Vite, Javascript and Tailwind
 
 <img src="src/assets/images/websitemockup.png" >
 
