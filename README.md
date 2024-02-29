@@ -24,7 +24,7 @@
    Open ```http://localhost:3005``` in your browser to view the app.
 
 
-## Technologies Used
+## Tech Stack
 
 - Vite
 - React
